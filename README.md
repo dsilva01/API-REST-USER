@@ -3,12 +3,12 @@
 ## Sobre
 
 A **api** contém várias requisições, como:
-* [listar todos os usuários (index)](https://github.com/dsilva01/API-REST-USER#index-metodo-get)
-* [Lista um usuário específico (show)](https://github.com/dsilva01/API-REST-USER#show-metodo-get)
-* [Criar um usuário (create)](https://github.com/dsilva01/API-REST-USER#create-metodo-post)
-* [Atualizar um usuário (updates)](https://github.com/dsilva01/API-REST-USER#updates-metodo-put)
-* [Excluir um usuário (drop)](https://github.com/dsilva01/API-REST-USER#drop=metodo-delete)
-* [Efectuar o login de um usuario (login)](https://github.com/dsilva01/API-REST-USER#login-metodo-post)
+* [listar todos os usuários (index)](https://github.com/dsilva01/api-rest-user#index-metodo-get)
+* [Lista um usuário específico (show)](https://github.com/dsilva01/api-rest-user#show-metodo-get)
+* [Criar um usuário (create)](https://github.com/dsilva01/api-rest-user#create-metodo-post)
+* [Atualizar um usuário (updates)](https://github.com/dsilva01/api-rest-user#updates-metodo-put)
+* [Excluir um usuário (drop)](https://github.com/dsilva01/api-rest-user#drop=metodo-delete)
+* [Efectuar o login de um usuario (login)](https://github.com/dsilva01/api-rest-user#login-metodo-post)
 
 ## Tecnologias
 
@@ -26,10 +26,10 @@ Para clonar esse repositório pelo terminal, é necessário possuir o [Git](http
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/dsilva01/API-REST-USER.git
+$ git clone https://github.com/dsilva01/api-rest-user.git
 
 # Entre na pasta do projeto
-$ cd API-REST-USER
+$ cd api-rest-user
 ```
 
 Para instalar as dependências e executar o projeto, é necessário possuir o [Node.js](https://nodejs.org/pt-br/) instalado em sua máquina, bem como um gerenciador de pacotes: [Yarn](https://yarnpkg.com/) ou [npm](https://www.npmjs.com/).
